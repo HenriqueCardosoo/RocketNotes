@@ -14,3 +14,4 @@ Sinta-se à vontade para explorar o código, compartilhar suas ideias e sugestõ
 
 - **React**: Para a construção da interface do usuário, utilizando componentes reutilizáveis e uma arquitetura de aplicativo eficiente.
 - **Styled Components**: Para estilização com CSS-in-JS, proporcionando uma experiência de desenvolvimento mais flexível e modular.
+- **React Router DOM**: Para gerenciamento de rotas na aplicação React, facilitando a navegação entre diferentes componentes da interface de usuário.
